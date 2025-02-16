@@ -21,7 +21,7 @@ payload = {
     "messages": [
         {
             "role": "user",
-            "content": "WHo are u?"
+            "content": "give one word that can make me happy"
         }
     ],
 }

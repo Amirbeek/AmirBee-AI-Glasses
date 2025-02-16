@@ -11,3 +11,5 @@ tests/
 .bashrc
 .env
 .env
+voice_recognation/vosk-model-en-us-0.22
+voice_recognation/vosk-model-small-en-us-0.15
